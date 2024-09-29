@@ -1,0 +1,53 @@
+## Copilot
+Természetesen! Íme a kibővített, 10 kérdésből álló teszt:
+- Melyik parancsot használnád a globális email cím beállításához az összes repository-hoz a gépeden?
+    - a) git config --local user.email "az email címed"
+    - b) git config --global user.email "az email címed"
+    - c) git config --global user.name "a neved"
+    - d) git config --local user.name "a neved"
+- Melyik parancs hoz létre egy új Git repository-t a jelenlegi könyvtárban?
+    - a) git clone <repository_url>
+    - b) git init
+    - c) git status
+    - d) git add <file>
+- Hogyan adsz hozzá egy fájlt a staging area-hoz a Git-ben?
+    - a) git commit -m "commit message"
+    - b) git push
+    - c) git add <file>
+    - d) git pull
+- Mi a git status parancs célja?
+    - a) A commit történet megjelenítése
+    - b) A munkakönyvtár és a staging area jelenlegi állapotának megjelenítése
+    - c) Változások letöltése egy távoli repository-ból
+    - d) Változások feltöltése egy távoli repository-ba
+- Melyik parancsot használnád a távoli repository változásainak letöltésére és egyesítésére a helyi repository-val?
+    - a) git push
+    - b) git pull
+    - c) git log
+    - d) git remote add <name> <url>
+- Hogyan adsz hozzá egy új távoli repository-t a megadott névvel és URL-lel?
+    - a) git remote add <name> <url>
+    - b) git clone <repository_url>
+    - c) git init
+    - d) git status
+- Melyik parancsot használod a staging area-ban lévő változtatások elmentésére egy új commit-ba a megadott üzenettel?
+    - a) git add <file>
+    - b) git commit -m "commit message"
+    - c) git push
+    - d) git pull
+- Mi a git clone <repository_url> parancs célja?
+    - a) Egy új Git repository létrehozása
+    - b) Egy meglévő repository letöltése a megadott URL-ről
+    - c) A commit-ok történetének megjelenítése
+    - d) A staging area-ban lévő változtatások elmentése
+- Melyik parancsot használod a helyi változtatások feltöltésére a távoli repository-ba?
+    - a) git pull
+    - b) git push
+    - c) git log
+    - d) git status
+- Mi a git log parancs célja?
+    - a) A commit-ok történetének megjelenítése
+    - b) A staging area-ban lévő változtatások elmentése
+    - c) A távoli repository hozzáadása
+    - d) A munkakönyvtár és a staging area jelenlegi állapotának megjelenítése
+Remélem, hasznosnak találod a tesztet! Ha bármilyen további kérdésed van, ne habozz jelezni. 😊
